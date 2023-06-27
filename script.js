@@ -23,9 +23,6 @@ function toggleDarkLightMode(isDark){
     
 }
 
-// Dark Mode Styles
-
-
 
 // Switch Theme Dynamically
 function switchTheme(event) {
