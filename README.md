@@ -5,5 +5,5 @@ Example website using toggle switch for light and dark mode.
 * HTML
 * CSS
 #
-Currently deployed [here](allymitchem.github.io/lightDarkMode/).
+Currently deployed [here](https://allymitchem.github.io/lightDarkMode/).
 
